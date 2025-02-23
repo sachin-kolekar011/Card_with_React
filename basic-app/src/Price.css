@@ -1,0 +1,26 @@
+.pricediv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 10px 0;
+  background-color: rgb(241, 241, 57); /* Background color for the div */
+}
+
+.priceColumn {
+  margin: 2px;
+  padding: 2px;
+}
+
+.originalPrice {
+    font-size: 1.2rem;
+  color: red; /* Red text color for original price */
+  background-color: rgb(241, 241, 57);
+}
+
+.discountedPrice {
+    font-size: 1.7rem;
+  color: blue;
+  background-color: rgb(241, 241, 57); /* Blue text color for discounted price */
+}

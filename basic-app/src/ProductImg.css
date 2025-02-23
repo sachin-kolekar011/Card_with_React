@@ -1,0 +1,14 @@
+.ImageSize 
+{
+    width : 120px ;
+    height : 150px ;
+   
+}
+
+.imagediv
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}

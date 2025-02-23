@@ -1,0 +1,18 @@
+.headingdiv 
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headingColor
+{
+    color :#00FFFF; 
+}
+
+.headingAlign {
+    text-align: center;
+    font-style: #00d5ff; /* Optional: Add color if needed */
+    margin: 20px 0; /* Optional: Adjust margins if needed */
+  }
